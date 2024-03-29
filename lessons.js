@@ -1,4 +1,4 @@
-// all courses must be stored as an array of JSON objects to be passed to the VUE app
+
 const lessons = [
   {
     id: 101,
