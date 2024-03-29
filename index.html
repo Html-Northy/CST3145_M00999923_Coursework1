@@ -96,10 +96,14 @@
                                     <div class="col-sm-4">
                                         <p></p>subject: {{item.lesson.subject}}</p>
                                         <p>quantity: {{item.amount}}</p>
+                                        <button class="btn btn-outline-danger rounded-0"
+                                    v-on:click='removeProduct(item.lesson)'>X</button>
                                     </div>
                                     <div class="col-sm-4">
                                         <p>price: {{item.lesson.price}}</p>
                                     </div>
+                                  
+                                    
                                 </div>
                             </div>
                         </div>
