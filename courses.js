@@ -2,10 +2,10 @@
 const lessons = [
     {
       id: 101,
-      title: "Introduction to Library Practices",
+      title: "Srabble Tutorial",
       subject: "Programming",
-      location: "Online",
-      price: 100,
+      location: "Server",
+      price: 123,
       spaces: 5,
       icon: "bi bi-book",
     },
