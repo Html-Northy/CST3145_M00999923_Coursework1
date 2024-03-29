@@ -1,13 +1,6 @@
-# CST3145_M00999927_COURSEWORK1
-coursework 1 for CST3145
-
-NAME: ABDULKHAFID KABIRU
-
-MISIS: M00999927
-
-EMAIL: AK2682@live.mdx.ac.uk
-
-
-- Github Repo: https://github.com/Abdulkhafid001/CST3145_M00999927_COURSEWORK1
-
-- live link: https://abdulkhafid001.github.io/CST3145_M00999927_COURSEWORK1/
+# CST3145_M00999923_COURSEWORK1
+NAME: Muhammad Al-Amin Yahaya
+MISIS: M00999923
+SCHOOLMAIL: MY413@live.mdx.ac.uk
+- Github Repo: https://github.com/Html-Northy/CST3145_M00999923_Coursework1
+- live link: https://html-northy.github.io/CST3145_M00999923_Coursework1/
